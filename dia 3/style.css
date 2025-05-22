@@ -1,0 +1,60 @@
+/*.contenedor {
+    background-color: blue;
+    padding: 10px 20px 10px 10px;
+    border: 1px solid black;
+    margin: 0px 160px 0px 0px ;
+}
+
+.contenedor2 {
+     background-color: rgb(77, 224, 109);
+    padding: 10px 20px 10px 10px;
+    border: 1px solid black;
+    margin: 0px 0px 0px 160spx;
+    
+}
+
+.clase {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: brown;
+    padding: 0px 0px 0px 0px;
+    width: 295px;
+    
+    
+}*/
+
+.contenedor {
+     display: block;
+     align-items: center;
+     justify-content: center;
+     border: 1px solid aqua;
+     width: 200px;
+     text-align: center;
+}
+
+table, thead, tbody, td, th {
+    border: 3px solid black;
+    border-radius: 3px;
+    border-collapse: collapse;
+}
+
+table {
+    border: 7px solid black;
+    border-radius: 10px;
+}
+
+body {
+    height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
